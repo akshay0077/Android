@@ -1,0 +1,15 @@
+android.support.graphics.drawable.AndroidResources
+android.support.graphics.drawable.BuildConfig
+android.support.graphics.drawable.PathParser
+android.support.graphics.drawable.PathParser$ExtractFloatResult
+android.support.graphics.drawable.PathParser$PathDataNode
+android.support.graphics.drawable.TypedArrayUtils
+android.support.graphics.drawable.VectorDrawableCommon
+android.support.graphics.drawable.VectorDrawableCompat
+android.support.graphics.drawable.VectorDrawableCompat$VClipPath
+android.support.graphics.drawable.VectorDrawableCompat$VFullPath
+android.support.graphics.drawable.VectorDrawableCompat$VGroup
+android.support.graphics.drawable.VectorDrawableCompat$VPath
+android.support.graphics.drawable.VectorDrawableCompat$VPathRenderer
+android.support.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState
+android.support.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState

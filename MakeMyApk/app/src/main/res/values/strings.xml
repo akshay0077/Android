@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="main_title">Tour Guide - Amreli</string>
+    <string name="category_culture">Culture</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_shopping">Shopping</string>
+
+
+    <!-- Cultural places names -->
+    <string name="musical_theater">Musical theater</string>
+    <string name="organ_hall">Organ Hall</string>
+    <string name="philharmonic_hall">Philharmonic Hall</string>
+    <string name="central_concert_hall">Central Concert Hall</string>
+    <string name="puppet_theater">Puppet theater</string>
+    <string name="central_exhibition_hall">Central Exhibition Hall</string>
+    <string name="regional_art_museum">Regional Art Museum</string>
+    <string name="state_historical_and_archaeological_museum_reserve">
+        State Historical and Archaeological Museum-Reserve
+    </string>
+    <string name="pushkin_regional_universal_scientific_library">
+        Pushkin Regional Universal Scientific Library
+    </string>
+
+
+    <!-- Monuments names -->
+    <string name="monument_to_empress_catherine_ii">
+        Monument to Empress Catherine II
+    </string>
+    <string name="monument_to_shurik_and_lidochka">
+        Monument to Shurik and Lidochka
+    </string>
+    <string name="monument_to_the_purse">Monument to the Purse</string>
+    <string name="monument_sobachkina_stolica">
+        Monument "Sobachkina stolica"
+    </string>
+    <string name="monument_to_man_the_creator">Monument to Man the Creator</string>
+    <string name="monument_to_suvorov">Monument to Suvorov</string>
+    <string name="monument_of_st_catherine_the_great_martyr">
+        Monument of St. Catherine the Great Martyr
+    </string>
+    <string name="monument_to_the_cossacks">Monument to the Cossacks</string>
+    <string name="generation_connection">Generation Connection</string>
+
+
+    <!-- Parks names -->
+    <string name="gorky_park">Gorky Park</string>
+    <string name="chistiakovskaya_grove">Chistiakovskaya Grove</string>
+    <string name="catherine_square">Catherine Square</string>
+    <string name="square_of_friendship_of_peoples">
+        Square of Friendship of Peoples
+    </string>
+    <string name="sunny_island">Sunny island</string>
+    <string name="park_krasnodar">Park Krasnodar</string>
+    <string name="botanical_garden">Botanical Garden</string>
+    <string name="seafront">Seafront</string>
+
+
+    <!-- Shopping places names -->
+    <string name="oz_mall">OZ MALL</string>
+    <string name="sbs_megamall">SBS Megamall</string>
+    <string name="gallery_krasnodar">Gallery Krasnodar</string>
+    <string name="krasnaya_ploshchad">Krasnaya Ploshchad</string>
+    <string name="mega">Mega</string>
+    <string name="galaktika">Galaktika</string>
+    <string name="karnaval">Karnaval</string>
+    <string name="crystal">Crystal</string>
+    <string name="city_center">CITY CENTER</string>
+</resources>

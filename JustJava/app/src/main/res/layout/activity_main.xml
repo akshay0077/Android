@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    tools:context=".MainActivity"
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/checkBox"
+                android:layout_width="269dp"
+                android:layout_height="65dp"
+                android:text="CheckBox"
+                tools:layout_editor_absoluteX="3dp"
+                tools:layout_editor_absoluteY="10dp" />
+
+            <CheckBox
+                android:id="@+id/checkBox2"
+                android:layout_width="264dp"
+                android:layout_height="47dp"
+
+                android:text="CheckBox"
+                tools:layout_editor_absoluteX="3dp"
+                tools:layout_editor_absoluteY="10dp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="146dp"
+                android:layout_height="38dp"
+                android:text="Quentity"
+                tools:layout_editor_absoluteX="5dp"
+                tools:layout_editor_absoluteY="97dp" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="69dp"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:textSize="39dp"
+                tools:layout_editor_absoluteX="6dp"
+                tools:layout_editor_absoluteY="133dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="60dp"
+                android:layout_height="53dp"
+                android:text="0"
+                android:textSize="39dp"
+                tools:layout_editor_absoluteX="57dp"
+                tools:layout_editor_absoluteY="136dp" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="66dp"
+                android:layout_height="wrap_content"
+                android:text="+"
+                android:textSize="39dp"
+                tools:layout_editor_absoluteX="98dp"
+                tools:layout_editor_absoluteY="135dp" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="137dp"
+                android:layout_height="63dp"
+                android:layout_marginTop="30sp"
+                android:text="Price"
+                android:textColor="@android:color/background_dark"
+                android:textSize="39dp"
+                tools:layout_editor_absoluteX="7dp"
+                tools:layout_editor_absoluteY="186dp" />
+
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="77dp"
+                android:layout_height="54dp"
+                android:layout_marginTop="10sp"
+                android:text="$ 0"
+                android:textSize="29dp"
+                tools:layout_editor_absoluteX="11dp"
+                tools:layout_editor_absoluteY="224dp" />
+
+
+            <!--            <TextView android:id="@+id/loginscrn"-->
+            <!--                android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginTop="80dp"-->
+            <!--                android:text="ScrollView"-->
+            <!--                android:textSize="25dp"-->
+            <!--                android:textStyle="bold"-->
+            <!--                android:layout_gravity="center"/>-->
+            <!--            <TextView android:id="@+id/fstTxt"-->
+            <!--                android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_marginTop="20dp"-->
+            <!--                android:text="Welcome to Tutlane"-->
+            <!--                android:layout_gravity="center"/>-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button One" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Two" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Three" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Four" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Five" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Six" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Seven" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Eight" />-->
+            <!--            <Button android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:layout_marginTop="60dp"-->
+            <!--                android:text="Button Nine" />-->
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="141dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="500dp"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>
